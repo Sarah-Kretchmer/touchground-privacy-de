@@ -1,6 +1,3 @@
-# touchground-privacy-de
-TouchGround German privacy policy
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
